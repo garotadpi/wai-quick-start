@@ -1,12 +1,12 @@
 ---
-title: Tips for Getting Started
+title: Dicas para começar
 nav_title: Overview
 permalink: /tips/
 ref: /tips/
-lang: en
+lang: pt-BR
 
 resource:
-  title: "Tips for Getting Started"
+  title: "Dicas para começar"
   ref: /tips/
 navigation:
   next: /tips/writing/
@@ -32,8 +32,8 @@ footer: >
   </p>
 ---
 
-Get started with accessibility. These tips introduce some basic considerations for making your website more accessible to people with disabilities, and provide links to additional guidance. Tips are grouped by activity; information relevant to your work might be in more than one page.
+Começando com a acessibilidade. Essas dicas apresentam algumas pontos básicos para tornar seu site mais acessível para pessoas com deficiência e fornecem links para orientações adicionais. As dicas são agrupadas por atividade; informações relevantes ao seu trabalho podem estar em mais de uma página.
 
-* [[Designing for Web Accessibility]](/tips/designing/): Tips for user interface and visual design.
-* [[Writing for Web Accessibility]](/tips/writing/): Tips for writing and presenting content.
-* [[Developing for Web Accessibility]](/tips/developing/): Tips for markup and coding.
+* [[Design para acessibilidade Web]](/tips/designing/): Dicas de interface gráfica e design visual.
+* [[Escrita para acessibilidade Web]](/tips/writing/): Dicas para escrita e apresentação de conteúdo.
+* [[Desenvolvimento para acessibilidade Web]](/tips/developing/): dicas para <i>markup</i> e codificação.
